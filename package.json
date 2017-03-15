@@ -1,0 +1,26 @@
+{
+  "name": "kaster-react-arc-component",
+  "version": "1.0.0",
+  "description": "A kaster generator for react-arc component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Alaa El Helw",
+    "email": "sicksadsun@gmail.com",
+    "url": "https://github.com/Sunny-fr/kaster-react-arc-component"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sunny-fr/kaster-react-arc-component.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunny-fr/kaster-react-arc-component/issues"
+  },
+  "homepage": "https://github.com/Sunny-fr/kaster-react-arc-component#readme",
+  "dependencies": {
+    "kaster": "0.0.5"
+  }
+}
