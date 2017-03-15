@@ -2,7 +2,7 @@ import React  from 'react'
 import config from '../config.js'
 import {connect} from 'react-redux'
 import {AbstractModelComponent, mixerConnector} from 'react-arc'
-import <%= capitalizeName %>Container from '../containers/<%= capitalizeName %>'
+import <%= capitalizeName %>Container from '../containers/<%= capitalizeName %>Container'
 
 class <%= capitalizeName %>Component extends AbstractModelComponent {
     static defaultProps = {

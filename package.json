@@ -1,6 +1,6 @@
 {
   "name": "kaster-react-arc-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A kaster generator for react-arc component",
   "main": "index.js",
   "scripts": {
